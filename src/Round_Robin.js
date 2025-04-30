@@ -213,7 +213,7 @@ function Round_Robin() {
                         </button><br />
                     </div>
                 </div>
-                <h6 style={{ color: "#1f4287", justifyContent: "center", position: "relative", display: "flex" }}>© 2024 Pranav Shrivastava. All Rights Reserved</h6>
+                <h6 style={{ color: "#1f4287", justifyContent: "center", position: "relative", display: "flex" }}>© 2024 . All Rights Reserved</h6>
             </div>
         </section>
 
